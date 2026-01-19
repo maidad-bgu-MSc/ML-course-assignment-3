@@ -30,7 +30,7 @@ The models were trained for 20 epochs. The results demonstrate that the deeper a
 | :--- | :--- | :--- | :--- |
 | Custom NumPy (1-Hidden) | 0.02 | 89.37% | 0.990 |
 | **Custom NumPy (2-Hidden)** | **0.01** | **92.68%** | **0.993** |
-| PyTorch (1-Hidden) | - | 89.89% | 0.9899 |
+| PyTorch (1-Hidden) | 0.02 | 89.89% | 0.9899 |
 
 ### Key Observations
 * **Impact of Depth:** Adding a second hidden layer to the manual implementation increased accuracy by **3.31%**.
