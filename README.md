@@ -3,8 +3,8 @@
 This repository contains the implementation and analysis for **Assignment 3**, focusing on extending a NumPy-based Multi-Layer Perceptron (MLP) and comparing its performance with modern deep learning frameworks.
 
 ## Authors
-* **Maidad Maissel** - *Ben-Gurion University of the Negev*
-* **Yuval Cohen**
+* **Maidad Maissel** - (324012608) - *Ben-Gurion University of the Negev*
+* **Yuval Cohen** - (314978198) - *Ben-Gurion University of the Negev*
 
 ## Project Overview
 The primary goal of this assignment was to transition from a basic single-hidden-layer architecture to a deeper network using the MNIST handwritten digit dataset. This project involves:
